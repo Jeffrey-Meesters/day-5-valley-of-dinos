@@ -1,0 +1,23 @@
+// Place all the styles related to the dinosaurs controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  border: 2px solid white;
+  text-align: center;
+  font-size: 40px;
+  color: red;
+}
+
+p {
+  border: 0px solid white;
+  float: left;
+  margin-left: 10px;
+  font-family: monospace;
+  font-size: 25px;
+}
