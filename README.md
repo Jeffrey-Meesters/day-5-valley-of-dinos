@@ -18,5 +18,6 @@ Second was to make an one to many relationship to add dinos to valleys.
 (http://res.cloudinary.com/debyt5msz/image/upload/v1479840758/Schermafbeelding_2016-11-22_om_19.52.14_p3oaqz.png)
 
 **Valleys**
+
 ![Image of valleys]
 (http://res.cloudinary.com/debyt5msz/image/upload/v1479841068/Schermafbeelding_2016-11-22_om_19.57.20_z4rgsn.png)
