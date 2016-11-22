@@ -23,7 +23,7 @@ class DinosaursController < ApplicationController
   end
 
   def edit
-     @dinosaur = Dinosaur.find(params[:id])
+    @dinosaur = Dinosaur.find(params[:id])
   end
 
   def update
@@ -46,8 +46,8 @@ end
 
 private
 
-  def dinosaur_params
-    params.require(:dinosaur).permit(:name, :age, :image_url)
-  end
+def dinosaur_params
+  params.require(:dinosaur).permit(:name, :age, :image_url, :valley_id)
+end
 
 end
